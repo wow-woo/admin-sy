@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+
+body {
+  font-family: "NanumSquare", sans-serif;
+  /* overflow: hidden; */
+}
+
+input {
+  outline: none;
+}
+
+@tailwind utilities;
