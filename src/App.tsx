@@ -1,6 +1,5 @@
 import { Aside } from "./components/Aside";
 import { Header } from "./components/Header";
-import { Login } from "./pages/Login";
 import { MainBlock } from "./pages/MainBlock";
 
 function App() {

@@ -1,6 +1,6 @@
-import { Login } from "./Login";
+// import { Login } from "./Login";
+// import { Singup } from "./Singup";
 import { MemberList } from "./MemberList";
-import { Singup } from "./Singup";
 
 export function MainBlock() {
     return (
