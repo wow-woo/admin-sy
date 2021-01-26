@@ -25,3 +25,6 @@ jobs:
 
       - name: Build # React Build
         run: npm run build
+        
+      - name: start # React start
+        run: npm start
